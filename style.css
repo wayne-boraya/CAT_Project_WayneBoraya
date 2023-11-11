@@ -89,8 +89,8 @@ ul li a:hover{
     background: rgb(74, 59, 209);
 }
 .img{
-    width: 20%;
-    height: 50%;
+    width: 30%;
+    height: 60%;
     position: absolute;
     right: 100px;
     bottom: 0;
@@ -98,7 +98,7 @@ ul li a:hover{
 
 .image img{
     position:absolute;
-    height: 75%;
+    height: 85%;
     left: 90%;
     transform: translate(-55%);
     bottom: 0;
